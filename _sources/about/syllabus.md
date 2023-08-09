@@ -1,6 +1,5 @@
-![](../images/uconn-header.jpg)
+![](../images/uconn-header.png)
 
-![](../images/header.jpg)
 
 # Course Syllabus
 
