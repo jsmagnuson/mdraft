@@ -1,6 +1,6 @@
 ![](../images/header.jpg)
 
-![](../images/uconn-wordmark-side-white-black.jpg)
+![](../images/uconn-header.jpg)
 
 (unsyllabus)=
 # Unsyllabus
