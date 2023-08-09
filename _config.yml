@@ -1,7 +1,7 @@
 # Book settings
 title: Models of the Mind
 author: James Magnuson
-logo: images/oldlogo.jpg
+logo: images/logo.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
