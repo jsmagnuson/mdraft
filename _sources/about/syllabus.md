@@ -1,14 +1,9 @@
 ![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.jpg)
+![](../images/uconn-header.jpg)
 
-**Department of Computer Science, Mathematics, Physics, and Statistics**
 
-# Course Syllabus (Official)
-
-Below is the official UBC-mandated Course Syllabus for {{ COURSE_CODE }}.
-Elements of this document are **fixed** and unchanging.
-Additional details about the course are available on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+# Course Syllabus
 
 **{{ COURSE_CODE }} {{ SECTION }}**
 
@@ -25,7 +20,7 @@ Additional details about the course are available on the {{ '[course website]({l
 
 **Office:** {{ OFFICE }}
 
-**Phone:** {{ PHONE }}
+**Email:** {{ EMAIL }}
 
 For information on how to contact your course instructor, including office hours, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
 
@@ -44,7 +39,7 @@ You will find all the important term dates in the [UBCO Academic Calendar](http:
 
 ## Learning Outcomes
 
-The Learning Outcomes for this course are: 
+The Learning Outcomes for this course are:
 
 ```{include} syllabus_bits/course_LOs.md
 ```
