@@ -1,7 +1,7 @@
 # Book settings
-title: Physics 111 
+title: Models of Mind: Explorations in Computational Cognitive Science
 author: Firas Moosvi
-logo: images/logo.jpg
+logo: images/models-of-mind-logo.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
@@ -23,7 +23,7 @@ html:
   comments:
     hypothesis: false
     utterances:
-      repo: "firasm/jupyterbook_course_template"
+      repo: "jsmagnuson/mdraft"
     dokieli: false
   extra_footer : |
       <div>
@@ -37,7 +37,7 @@ launch_buttons:
   thebe              : true
 
 repository: 
-  url          : https://github.com/firasm/jupyterbook_course_template
+  url          : https://github.com/jsmagnuson/mdraft
   path_to_book : ""
   branch       : main
 
@@ -57,32 +57,17 @@ sphinx:
     - substitution
 
     myst_substitutions:
-      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
-      PRONOUNCE: "Fur-az Moose-vee"
-      OFFICE: "ROOM 111"
+      INSTRUCTOR: "James (Jim) Magnuson (he/his/him)"
+      OFFICE: "Arjona 114"
       PHONE: "N/A"
-      COURSE_CODE: "PHYS 111"
-      SECTION: "001"
+      COURSE_CODE: "PSYC 3884 [ugrad] and 5570-002 [grad]"
       CREDITS: "3"
-      TITLE: "Introductory Physics for the Physical Sciences I"
-      PREREQS: "One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11 (Physics 12 is strongly recommended)."
-      COREQS: "Math 100"
-      TERM: "2020 Winter Term 2"
-      ROOM: "ROOM 100"
-      MEETING_TIMES: "Monday, Wednesday, Friday from 1-2 PM"
-      GRACE_PERIOD: "48 hour"
-      W_DATE_1: "11:59 PDT on January 22, 2021"
-      W_DATE_2: "11:59 PDT on March 26, 2021"
-      W_DATE_3: "11:59 PDT on March 26, 2021"
-      EXAM_PERIOD: "Friday December 10th - Wednesday, December 22"
-      CANVAS_ID: "63995"
-      CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
-      ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
-      ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
+      TITLE: "Models of the Mind"
+      PREREQS: "Instructor permission."
+      TERM: "2023 Fall"
+      ROOM: "Arjona 307"
+      MEETING_TIMES: "Fridays, 9-12"
+      ZOOM_LINK: "[Zoom](https://uconn-edu.zoom.us/j/95210029717?pwd=TWxsdjRrVnZmeDh1ak1XNzE5MTZKZz09)"
       COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
-      FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/fgh45hfgh)"
-      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/xxxxxxxxxx)"
       FORMAT: "Lectures, Labs, Tutorials and they will all be running online in this course."
-      ASSOCIATE_HEAD: "Jake Bobowski [jake.bobowski@ubc.ca](mailto:jake.bobowski@ubc.ca)"
-      ANON_FEEDBACK: "[feedback form](https://cbc.ca)"
       TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website."
