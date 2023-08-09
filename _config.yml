@@ -36,7 +36,7 @@ launch_buttons:
   binderhub_url      : "https://mybinder.org"
   thebe              : true
 
-repository: 
+repository:
   url          : https://github.com/jsmagnuson/mdraft
   path_to_book : ""
   branch       : main
@@ -46,7 +46,7 @@ sphinx:
     html_show_copyright: false
     html_extra_path: ['files']
     bibtex_reference_style: author_year
-    myst_enable_extensions: 
+    myst_enable_extensions:
     - amsmath
     - colon_fence
     - deflist
@@ -60,6 +60,7 @@ sphinx:
       INSTRUCTOR: "James (Jim) Magnuson (he/his/him)"
       OFFICE: "Arjona 114"
       PHONE: "N/A"
+      EMAIL: "james.magnuson@uconn.edu"
       COURSE_CODE: "PSYC 3884 [ugrad] and 5570-002 [grad]"
       CREDITS: "3"
       TITLE: "Models of the Mind"

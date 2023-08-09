@@ -7,7 +7,7 @@ parts:
   - file: about/syllabus
   - file: about/course_schedule
   - file: about/accommodations
-  - file: about/doing_well
+#  - file: about/doing_well
   - file: about/faq
 - caption: Demo section
   chapters:
