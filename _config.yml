@@ -1,7 +1,7 @@
 # Book settings
 title: "Models of the Mind"
-author: Firas Moosvi
-logo: images/models-of-mind-logo-smaller.png
+author: James Magnuson
+logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
@@ -18,7 +18,7 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  announcement: "Use this JupyterBook as a <a href='https://github.com/firasm/jupyterbook_course_template' style='color:pink;'>template by clicking here</a>!"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  announcement: "Announcements will appear here"
   # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
@@ -71,3 +71,7 @@ sphinx:
       COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
       FORMAT: "Lectures, Labs, Tutorials and they will all be running online in this course."
       TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website."
+
+# Notes
+# Template: https://firasm.github.io/jupyterbook_course_template
+# Template repo: https://github.com/firasm/jupyterbook_course_template
