@@ -1,27 +1,18 @@
 ![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.jpg)
+![](../images/uconn-wordmark-side-white-black.jpg)
 
 (page_pre_term)=
 # Before term starts
 
 Welcome to {{ COURSE_CODE }}, {{ TITLE }} !
-I am very excited that you've decided to enrol in my class.
-Whether it's your choice to take this course, or if your were forced into it by your program/degree is not really that important - you're here now, and you're welcomed!
-Many of you are entering your first year of university in a new city, and maybe even a new country!
-To the students local to the area, you have a big responsibility to help your fellow students feel welcome and at home, in their new home.
-Everyone should try and make the effort to make some new friends, study partners, and acquaintances.
-We're emerging from a lockdowns and online learning, so don't think you're the only one whose social skills have severely deteriorated over the past few years!
-Take the time to introduce yourselves, share your favourite places to go, hangout, eat, socialize etc.
-Have fun with it, this is your new community!
 
-<img src="../images/friendship.jpg" alt="Silhouettes of a group of 6 friends running up the walls of what appears to be a giant pipe. Mountains and a blue sky in the background.">
+This is a brand new course. Academically, my passion is research. In research, my passion is using computational models to develop theories of human cognition and perception, with particular focus on language. I have the incredible privilege of spending most of my working hours tinkering with models and trying to use them to understand how human language processing works.
 
-Image by [Maike und Björn Bröskamp](https://pixabay.com/users/broesis-5213623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2366955) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2366955)
+My goal with this course is to share my fascination for computational tools with you. What you will learn in this course is directly applicable to modelling cognitive processes, and fairly easy to extend to related areas such as neuroscience or sociology. More importantly, I hope to share with you a way of thinking about problems that I call *computational thinking.* (It has come to my attention that there are some related ideas already associated with this label, but I am going to hang on to it for now.) This perspective focuses on developing causal explanations and testing them via simulation (or sometimes just calculation). It emphasize the potential for complexity to *emerge* from interactions among simple (and/or complex) elements. We will explore some salient examples where seemingly mysterious and complex phenomena can be explained in surprisingly simple, transparent ways.
 
-I know that for some of you, the days before the term starts is filled with a nervous and anxious excitement, usually the good kind, but often the bad kind too.
-I remember when I was a student, I would frantically check to see if course information was updated and whether there was a course website, what the class was going to be like, and if there was anything I could do to get ready for the start of class.
-So when I became an instructor, I tried to reach out to my students a week or two before the term started to introduce myself and give them a few tasks to do to prepare for my class and the new school term.
+
+
 
 ```{note}
 Having some stuff to do before the term starts works for some students, but for others it really feels like I'm interrupting the last days of your summer vacations. Feel free to ignore this and come back to it whenever you're ready after the term has started! You won't be missing much and it really won't take that long to do.
@@ -127,16 +118,16 @@ Finally, I recognize that a lot of this may be "[hidden curriculum](https://www.
 I do not believe that students are intentionally referring to their instructors using incorrect honorifics (Mr., Ms., and the worst: Miss or Mrs).
 However, it is an unfortunate and dark part of our society that it tends to happen way more to my female colleagues.
 Practically speaking, in almost all cases^, and instructors here need a PhD to teach, so even if unintentional or accidental, you are devaluing their accomplishments and titles by referring to them as anything other than `Dr.` or `Professor`.
-These titles that have been incredibly hard-earned (PhDs tend to have 5-7 years of additional education and training after a bachelor's degree), often in extremely traumatic circumstances (particularly for minoritized folks). 
+These titles that have been incredibly hard-earned (PhDs tend to have 5-7 years of additional education and training after a bachelor's degree), often in extremely traumatic circumstances (particularly for minoritized folks).
 In general, I encourage you all to look within yourself and fight against your inner biases when it comes to equity and inclusion.
 Specifically in this case, I suggest you **always** refer to your instructors at UBCO with `Dr.` + `<last name>` or `Professor` + `<last name>`.
 
-^ *Note: In some rare cases, there may be exceptional senior grad students or exceptional teachers with Masters degrees teaching your courses. 
+^ *Note: In some rare cases, there may be exceptional senior grad students or exceptional teachers with Masters degrees teaching your courses.
 Even in those cases, unless they tell you otherwise and insist, it's usually wisest (and politest) to refer to them as `Dr.` or `Professor` as well.*
 ```
 
 ```{tip}
-👋🏽 If you have been referred to this page by me after an email exchange with me, please do not despair or feel bad! I do not think any less of you, I am just using this opportunity to educate you about appropriately addressing your instructors. There is absolutely no need to apologize, all is forgiven! Use this opportunity to learn more about this, and you'll do the right thing next time, I'm sure 😊! 
+👋🏽 If you have been referred to this page by me after an email exchange with me, please do not despair or feel bad! I do not think any less of you, I am just using this opportunity to educate you about appropriately addressing your instructors. There is absolutely no need to apologize, all is forgiven! Use this opportunity to learn more about this, and you'll do the right thing next time, I'm sure 😊!
 ```
 ````
 
@@ -225,7 +216,7 @@ If you come in with good work ethic, the right attitude, and sufficient motivati
     :class-container: sd-shadow-lg
     :color: primary
 
-- Attendance is **highly recommended** in lectures and tutorials, but not required. 
+- Attendance is **highly recommended** in lectures and tutorials, but not required.
 - Tutorials and labs will not be recorded, Lectures will be recorded and made available via Canvas.
 - Attendance **is required** in labs.
 ```
