@@ -1,7 +1,6 @@
-![](../images/header.jpg)
-
 ![](../images/uconn-header.jpg)
 
+![](../images/header.jpg)
 
 # Course Syllabus
 
@@ -31,7 +30,6 @@ For information on how to contact your course instructor, including office hours
 ### Brief
 This class is a hands-on introduction to several kinds of computational models used in the cognitive and neural sciences. In science, computational models are tools we use to test and refine theories. No programming background is required. Students will learn programming basics so that they can work with already-implemented models (and students can choose to do more advanced challenges). The modeling and programming we cover could help prepare students for advanced studies in various disciplines, and/or a foundation for delving more deeply into machine learning or data science. Students should bring a laptop to class each week.
 
-
 ### Detailed
 What is the purpose of computational models in the cognitive and neural sciences? Theories are principled explanations that make sense of data (observations of behavior or neural function). For example, primacy and recency effects in serial memory motivate a division between long-term memory and short-term memory as well as the idea that rehearsal is a key mechanism for transferring information from short- to long-term memory. Computational models are tools for testing and refining theories by forcing us to make explicit our assumptions about inputs, representations, and/or processes underlying some cognitive domain. Once a theory proposes even a few interacting components, it may be hard to determine the specific predictions that result without creating a model capable of simulating the interactions.
 
@@ -52,12 +50,12 @@ Attendance will not be graded, but students are advised to attend every class. S
 ### Grades will be based on:
 - 64%: 4 brief lab reports (one per framework, summarizing the purpose of each model and assessing their success / utility), each worth 16% of the grade. Each lab report will have a 'default' scope and a 'challenge' scope. Honors students and graduate students will be assigned the challenge versions, while other students can choose the challenge versions to earn modest extra credit (up to 2% per report).
 - 10%: 10 in-class quizzes (1% each) designed to reinforce key concepts
-  6%: Midterm exam -- short written exam
+- 6%: Midterm exam -- short written exam
 - 12%: Final exam -- take-home essay exam due during finals week
-  8%: Participation -- based on whether you contribute to discussions / answer instructor questions at least once every two sessions on average (to be sure everyone has opportunities to contribute, the instructor will call on each student occasionally)
+- 8%: Participation -- based on whether you contribute to discussions / answer instructor questions at least once every two sessions on average (to be sure everyone has opportunities to contribute, the instructor will call on each student occasionally)
 
 ## Late work policy
-Things happen, and you may not always get your work in on time. If this happens occasionally, it will not be a problem. If it happens often for many people, I will have a harder time getting feedback to everyone in a timely matter, and that can negatively impact the whole class. Therefore, you can turn in two assignments late (ideally not more than 2 days late, so I can get you feedback before the next class) with no explanation and no penalty. Any other late work will need a really good reason for being late, or else the I will deduct half the possible points for that assignment. If you are chronically late, please consider meeting with me to discuss time management skills -- I feel your pain! I still struggle with time management myself.
+Things happen, and you may not always get your work in on time. If this happens occasionally, it will not be a problem. If it happens often for many people, I won't be able to provide feedback to everyone in a timely matter, which would negatively impact the whole class. Therefore, you can turn in two assignments late (ideally not more than 2 days late, so I can get you feedback before the next class) with no explanation and no penalty. Any other late work will need a really good reason for being late, or you will lose 10% of points per day late for that assignment. If you are chronically late, please consider meeting with me to discuss time management skills -- I feel your pain! I still struggle with time management myself.
 
 
 ## Tentative Course Schedule
