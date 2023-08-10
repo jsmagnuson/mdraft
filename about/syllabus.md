@@ -16,12 +16,19 @@
 **Office:** {{ OFFICE }}
 **Email:** {{ EMAIL }}
 
+## Motivation
+This is a brand new course. Let me explain why I’ve put in the effort to develop it.
+
+Academically, my passion is research. In research, my passion is using computational models to develop theories of human cognition and perception, with particular focus on language. I have the incredible privilege of spending most of my working hours tinkering with models and trying to use them to understand how human language processing works.
+
+My goal with this course is to share my fascination for computational tools with you. What you will learn in this course is directly applicable to modelling cognitive processes, and fairly easy to extend to related areas such as neuroscience or sociology. More importantly, I hope to share with you a way of thinking about problems that I call *computational thinking*. (It has come to my attention that there are some related ideas already associated with this label, but I am going to hang on to it for now.) This perspective focuses on developing causal explanations and testing them via simulation (or sometimes just calculation). It emphasizes the potential for complexity to emerge from interactions among simple (and/or complex) elements. We will explore some salient examples where seemingly mysterious and complex phenomena can be explained in surprisingly simple, transparent ways.
+
 ## Course Description
 
-### Brief
+**Brief.**
 This class is a hands-on introduction to several kinds of computational models used in the cognitive and neural sciences. In science, computational models are tools we use to test and refine theories. No programming background is required. Students will learn programming basics so that they can work with already-implemented models (and students can choose to do more advanced challenges). The modeling and programming we cover could help prepare students for advanced studies in various disciplines, and/or a foundation for delving more deeply into machine learning or data science. Students should bring a laptop to class each week.
 
-### Detailed
+**Detailed.**
 What is the purpose of computational models in the cognitive and neural sciences? Theories are principled explanations that make sense of data (observations of behavior or neural function). For example, primacy and recency effects in serial memory motivate a division between long-term memory and short-term memory as well as the idea that rehearsal is a key mechanism for transferring information from short- to long-term memory. Computational models are tools for testing and refining theories by forcing us to make explicit our assumptions about inputs, representations, and/or processes underlying some cognitive domain. Once a theory proposes even a few interacting components, it may be hard to determine the specific predictions that result without creating a model capable of simulating the interactions.
 
 We will explore a variety of modeling approaches, including: mathematical models (equations that correctly capture aspects of data patterns), agent-based models (where we simulate interactions among many ‘individuals’ following similar rules or algorithms), network science models (which can characterize local and global aspects of connected systems, from neurons to friendships, and interactions among elements), and neural network models (dynamic networks of artificial neurons that can be trained to simulate cognitive processes). We will apply models to a variety of theories in domains such as learning and memory, vision, and language. We will explore ways to analyze models and link them to theories, behavior, and neural activity. We will also examine the implications of necessary simplifying assumptions, as well as common pitfalls and mistakes to avoid.

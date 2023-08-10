@@ -50,3 +50,10 @@ For about half the classes, lectures will be pre-recorded and available on this 
 - That said, part of your grade is based on in-class participation; if you miss more than a couple of classes, that part of your grade will certainly decline
 
 ```
+
+```{dropdown} What's with the goofy logo?
+    :class-container: sd-shadow-lg
+    :color: primary
+
+This is based on a cartoon I cobbled together from open-source images as a joke to add to a professional posters. My co-authors insisted we keep it (!). It captures some of the spirit of what we are up to in this course. We are not just making models that can *do* things, as though that would be an end to itself. Once we have a model system that works well, we need to investigate how *it* works, which can lead to deeper understanding of how human perception, cognition, and action work.
+```
