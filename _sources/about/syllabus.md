@@ -10,18 +10,18 @@ This course website is currently under construction. It will continue to be upda
 
 # Course Syllabus
 
-**{{ COURSE_CODE }} {{ SECTION }}**
-**{{ TITLE }} ({{ CREDITS }})**
-**{{ TERM }}**
-**{{ ROOM }} - {{ MEETING_TIMES }}**
+- **{{ COURSE_CODE }} {{ SECTION }}**
+- **{{ TITLE }} ({{ CREDITS }})**
+- **{{ TERM }}**
+- **{{ ROOM }} - {{ MEETING_TIMES }}**
 
 ---
 
 ## Instructor
 
-**Name:** {{ INSTRUCTOR }}
-**Office:** {{ OFFICE }}
-**Email:** {{ EMAIL }}
+- **Name:** {{ INSTRUCTOR }}
+- **Office:** {{ OFFICE }}
+- **Email:** {{ EMAIL }}
 
 ## Motivation
 This is a brand new course. Let me explain why I’ve put in the effort to develop it.
