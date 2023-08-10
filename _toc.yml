@@ -1,7 +1,7 @@
 format: jb-book
 root: about/syllabus
 parts:
-- caption: About this course
+- caption: ""
   chapters:
   #- file: about/pre_term
   #- file: about/syllabus
