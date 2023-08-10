@@ -3,7 +3,7 @@ root: about/syllabus
 parts:
 - caption: ""
   chapters:
-  #- file: about/pre_term
+  #- file: about/logistics
   #- file: about/syllabus
   - file: about/course_schedule
   - file: about/accommodations
