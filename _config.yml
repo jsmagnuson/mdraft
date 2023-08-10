@@ -71,7 +71,7 @@ sphinx:
       ZOOM_LINK: "[Zoom](https://uconn-edu.zoom.us/j/95210029717?pwd=TWxsdjRrVnZmeDh1ak1XNzE5MTZKZz09)"
       COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
       FORMAT: "Lectures, Labs, Tutorials and they will all be running online in this course."
-      TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website."
+      TEXTBOOK: "There is not a textbook. I'll provide notes and PDFs of readings. I can also recommend some books that would be helpful to read if you want to learn more."
 
 # Notes
 # Template: https://firasm.github.io/jupyterbook_course_template

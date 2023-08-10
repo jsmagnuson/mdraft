@@ -1,6 +1,3 @@
-Frequently Asked Questions
-=======================
-
 ## Frequently asked/anticipated questions
 
 ```{dropdown} How do I address professors?
@@ -34,11 +31,11 @@ When questions arise, you can of course reach out to me for help. I can try to a
 ```
 
 
-```{dropdown} Will lectures be recorded so I can re-watch them to study?
+```{dropdown} Will lectures be recorded?
     :class-container: sd-shadow-lg
     :color: primary
 
-For about half the classes, lectures will be pre-recorded and available on this website. I might record class sessions, but I cannot promise that yet.
+For about half the classes, lectures will be pre-recorded and available on this website. I might record in-person sessions, but I cannot promise that yet.
 
 ```
 
@@ -55,5 +52,5 @@ For about half the classes, lectures will be pre-recorded and available on this 
     :class-container: sd-shadow-lg
     :color: primary
 
-This is based on a cartoon I cobbled together from open-source images as a joke to add to a professional posters. My co-authors insisted we keep it (!). It captures some of the spirit of what we are up to in this course. We are not just making models that can *do* things, as though that would be an end to itself. Once we have a model system that works well, we need to investigate how *it* works, which can lead to deeper understanding of how human perception, cognition, and action work.
+This is based on a cartoon I cobbled together from open-source images as a joke to add to a poster for a science conference. My co-authors insisted we keep it (!). It captures some of the spirit of what we are up to in this course. We are not just making models that can *do* things, as though that would be an end to itself. Once we have a model system that works well, we need to investigate how *it* works, which can lead to deeper understanding of how human perception, cognition, and action work.
 ```
