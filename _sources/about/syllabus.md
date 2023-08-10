@@ -1,6 +1,6 @@
 ![](../images/uconn-header.png)
 
-``` 
+``` {figure}
 ../images/construction.jpeg
 ---
 width: 350px
