@@ -1,7 +1,6 @@
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-|----|--------|--------------------------|-------------------|---------------|
 | Wk | Date   | Topic                    | Notebook          | Notes         |
 |----|--------|----------------------------------------------|---------------|
 |  1 | Sep  1 | Overview: comp. thinking | 01-jupyter-intro  |               |
@@ -18,6 +17,3 @@ Things may change depending on many factors so this is subject to change.
 | 12 | Nov 17 | Neural networks, 2       | 12-nnets-02       |               |
 | 13 | Dec  1 | Neural networks, 3       | 13-nnets-03       |               |
 | 14 | Dec  8 | Neural nets, 4 + wrap up | 14-nnets-04       |               |
-|----|--------|----------------------------------------------|---------------|
-| Ex | Dec 12 | **Take-home exam due**                       |               |
-|----|--------|----------------------------------------------|---------------|
