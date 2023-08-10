@@ -4,25 +4,17 @@
 # Course Syllabus
 
 **{{ COURSE_CODE }} {{ SECTION }}**
-
 **{{ TITLE }} ({{ CREDITS }})**
-
 **{{ TERM }}**
-
 **{{ ROOM }} - {{ MEETING_TIMES }}**
 
 ---
-## Course Instructor
+
+## Instructor
 
 **Name:** {{ INSTRUCTOR }}
-
 **Office:** {{ OFFICE }}
-
 **Email:** {{ EMAIL }}
-
-For information on how to contact your course instructor, including office hours, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
-
-**Mode of Delivery:** Online (All course activities and assessments, including the Final Exam, will be conducted Online.)
 
 ## Course Description
 
