@@ -16,9 +16,7 @@ parts:
   - file: resources/res-02-jupyter
     title: Python & notebooks
   - file: resources/python-intro
-    sections:
-      - file: resources/python_jupyter_overview
-        title: Python & Jupyter overview
+    title: Lab - Python & Jupyter
 - caption: Classes
   chapters:
   - file: class/week01_overview/week01_summary
@@ -26,11 +24,11 @@ parts:
   - file: class/module1-verbmath/verbmath_01
     title: Week 2 - Verbal & mathematical models 1
     sections:
-      - file: class/module1-probmatch/lecture01
-      - file: class/module1-probmatch/readings01
-      - file: class/module1-probmatch/videos01
-      - file: class/module1-probmatch/notebook01
-      - file: class/module1-probmatch/test01
+      - file: class/mod01-probmatch/lecture01
+      - file: class/mod01-probmatch/readings01
+      - file: class/mod01-probmatch/videos01
+      - file: class/mod01-probmatch/notebook01
+      - file: class/mod01-probmatch/test01
   - file: class/module1-verbmath/verbmath_02
     title: Week 3 - Verbal & mathematical models 2
     sections:
