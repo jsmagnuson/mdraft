@@ -19,9 +19,13 @@ parts:
     title: Lab - Python & Jupyter
 - caption: Classes
   chapters:
-  - file: class/week01_overview/week01_summary
-    title: Week 1 - Overview and preliminaries
-  - file: class/module1-verbmath/verbmath_01
+  - file: class/mod00-overview/lecture00
+    title: Week 1 - Overview
+    sections:
+      - file: class/mod00-overview/python_jupyter_overview
+
+
+- caption: To fix
     title: Week 2 - Verbal & mathematical models 1
     sections:
       - file: class/mod01-probmatch/lecture01
