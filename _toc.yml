@@ -12,14 +12,13 @@ parts:
 - caption: Resources
   chapters:
   - file: resources/res-01-teaching-format
-    title: Resource 1 - Teaching format
+    title: Teaching format
   - file: resources/res-02-jupyter
-    title: Resource 2 - Python & notebooks
+    title: Python & notebooks
+  - file: resources/python-intro
     sections:
-      - file: resources/res-02a-python
-        title: Learning Python
-      - file: resources/res-02b-jupyter
-        title: Jupyter notebooks
+      - file: resources/python_jupyter_overview
+        title: Python & Jupyter overview
 - caption: Classes
   chapters:
   - file: class/week01_overview/week01_summary
@@ -27,11 +26,11 @@ parts:
   - file: class/module1-verbmath/verbmath_01
     title: Week 2 - Verbal & mathematical models 1
     sections:
-      - file: class/module1-verbmath/lecture01
-      - file: class/module1-verbmath/readings01
-      - file: class/module1-verbmath/videos01
-      - file: class/module1-verbmath/notebook01
-      - file: class/module1-verbmath/test01
+      - file: class/module1-probmatch/lecture01
+      - file: class/module1-probmatch/readings01
+      - file: class/module1-probmatch/videos01
+      - file: class/module1-probmatch/notebook01
+      - file: class/module1-probmatch/test01
   - file: class/module1-verbmath/verbmath_02
     title: Week 3 - Verbal & mathematical models 2
     sections:
