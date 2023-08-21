@@ -9,49 +9,78 @@ parts:
   - file: about/accommodations
 #  - file: about/doing_well
   - file: about/faq
-- caption: Demo section
+- caption: Resources
   chapters:
-  - file: class/demo01/demo01_summary
-    title: Demo 1 - Data Science
+  - file: resources/res-01-teaching-format
+    title: Resource 1 - Teaching format
+  - file: resources/res-02-jupyter
+    title: Resource 2 - Python & notebooks
     sections:
-      - file: class/demo01/lecture1
-      - file: class/demo01/lecture2
-      - file: class/demo01/lecture3
-  - file: class/demo02/demo02_summary
-    title: Demo 2 - Introductory Physics
-    sections:
-      - file: class/demo02/videos
-      - file: class/demo02/homework
-      - file: class/demo02/readings
-      - file: class/demo02/lab
-      - file: class/demo02/learninglogs
-      - file: class/demo02/test
-      - file: class/demo03/demo03_summary
-        title: Demo 3 - Shakespeare
-      - file: class/demo04/demo04_summary
-        title: Demo 4 - Chemistry
-      - url: https://firas.moosvi.com/books/active-learning-technologies/jupyterdays/capacitor_talk/Capacitor.html
-        title: Capacitor Lecture
-- caption: Part 1 - Kinematics
+      - file: resources/res-02a-python
+        title: Learning Python
+      - file: resources/res-02b-jupyter
+        title: Jupyter notebooks
+- caption: Classes
   chapters:
-  - file: class/week01/week01_summary
-    title: Week 1 - Introductions!
-  - file: class/week02/week02_summary
-    title: Week 2 - Chapter 2
+  - file: class/week01_overview/week01_summary
+    title: Week 1 - Overview and preliminaries
+  - file: class/module1-verbmath/verbmath_01
+    title: Week 2 - Verbal & mathematical models 1
     sections:
-      - file: class/week02/readings
-      - file: class/week02/videos
-      - file: class/week02/homework
-      - file: class/week02/lecture
-      - file: class/week02/test
-      - file: class/week02/lab
-      - file: class/week02/learninglogs
+      - file: class/module1-verbmath/lecture01
+      - file: class/module1-verbmath/readings01
+      - file: class/module1-verbmath/videos01
+      - file: class/module1-verbmath/notebook01
+      - file: class/module1-verbmath/test01
+  - file: class/module1-verbmath/verbmath_02
+    title: Week 3 - Verbal & mathematical models 2
+    sections:
+      - file: class/module1-verbmath/lecture02
+      - file: class/module1-verbmath/readings02
+      - file: class/module1-verbmath/videos02
+      - file: class/module1-verbmath/notebook02
+      - file: class/module1-verbmath/test02
+  - file: class/module1-verbmath/verbmath_03
+    title: Week 4 - Verbal & mathematical models 3
+    sections:
+      - file: class/module1-verbmath/lecture03
+      - file: class/module1-verbmath/readings03
+      - file: class/module1-verbmath/videos03
+      - file: class/module1-verbmath/notebook03
+      - file: class/module1-verbmath/test03
+
+  - file: class/module2-netsci/netsci_01
+    title: Week 5 - Network science models 1
+    sections:
+      - file: class/module2-netsci/lecture01
+      - file: class/module2-netsci/readings01
+      - file: class/module2-netsci/videos01
+      - file: class/module2-netsci/notebook01
+      - file: class/module2-netsci/test01
+  - file: class/module2-netsci/netsci_02
+    title: Week 6 - Network science models 2
+    sections:
+      - file: class/module2-netsci/lecture02
+      - file: class/module2-netsci/readings02
+      - file: class/module2-netsci/videos02
+      - file: class/module2-netsci/notebook02
+      - file: class/module2-netsci/test02
+  - file: class/module2-netsci/netsci_03
+    title: Week 7 - Network science models 3
+    sections:
+      - file: class/module2-netsci/lecture03
+      - file: class/module2-netsci/readings03
+      - file: class/module2-netsci/videos03
+      - file: class/module2-netsci/notebook03
+      - file: class/module2-netsci/test03
+
+
   - file: class/week03/week03_summary
-    title: Week 3 - Chapter 3
+    title: Week 3 -
     sections:
       - file: class/week03/readings
       - file: class/week03/videos
-      - file: class/week03/homework
+      - file: class/week03/notebook
       - file: class/week03/lecture
       - file: class/week03/test
       - file: class/week03/lab
@@ -61,7 +90,7 @@ parts:
     sections:
       - file: class/week04/readings
       - file: class/week04/videos
-      - file: class/week04/homework
+      - file: class/week04/notebook
       - file: class/week04/lecture
       - file: class/week04/test
       - file: class/week04/lab
@@ -73,7 +102,7 @@ parts:
     sections:
       - file: class/week05/readings
       - file: class/week05/videos
-      - file: class/week05/homework
+      - file: class/week05/notebook
       - file: class/week05/lecture
       - file: class/week05/test
       - file: class/week05/lab
@@ -85,7 +114,7 @@ parts:
     sections:
       - file: class/week07/readings
       - file: class/week07/videos
-      - file: class/week07/homework
+      - file: class/week07/notebook
       - file: class/week07/lecture
       - file: class/week07/test
       - file: class/week07/lab
@@ -95,7 +124,7 @@ parts:
     sections:
       - file: class/week08/readings
       - file: class/week08/videos
-      - file: class/week08/homework
+      - file: class/week08/notebook
       - file: class/week08/lecture
       - file: class/week08/test
       - file: class/week08/lab
@@ -105,7 +134,7 @@ parts:
     sections:
       - file: class/week09/readings
       - file: class/week09/videos
-      - file: class/week09/homework
+      - file: class/week09/notebook
       - file: class/week09/lecture
       - file: class/week09/test
       - file: class/week09/lab
@@ -117,7 +146,7 @@ parts:
     sections:
       - file: class/week10/readings
       - file: class/week10/videos
-      - file: class/week10/homework
+      - file: class/week10/notebook
       - file: class/week10/lecture
       - file: class/week10/test
       - file: class/week10/lab
@@ -127,7 +156,7 @@ parts:
     sections:
       - file: class/week11/readings
       - file: class/week11/videos
-      - file: class/week11/homework
+      - file: class/week11/notebook
       - file: class/week11/lecture
       - file: class/week11/test
       - file: class/week11/lab
@@ -137,7 +166,7 @@ parts:
     sections:
       - file: class/week12/readings
       - file: class/week12/videos
-      - file: class/week12/homework
+      - file: class/week12/notebook
       - file: class/week12/lecture
       - file: class/week12/test
       - file: class/week12/lab
@@ -149,7 +178,7 @@ parts:
     sections:
       - file: class/week13/readings
       - file: class/week13/videos
-      - file: class/week13/homework
+      - file: class/week13/notebook
       - file: class/week13/lecture
       - file: class/week13/test
       - file: class/week13/lab
