@@ -1,6 +1,13 @@
-(page_topic2)=
-Week 2 Summary
+(page_resource01_format)=
+Course format
 =======================
+
+This course is going to use a mix of approaches, beginning with the meeting
+format.
+
+**Meeting format.** We will use a hybrid meeting most weeks. This means you can
+*always* attend by video link (which will either be zoom or teams), and most
+weeks you can attend in person (in Arjona 307). I say *most* weeks because 
 
 ## How this course is organized
 
@@ -22,7 +29,7 @@ Optional: [Showing the differences between a Traditional and a Flipped Classroom
 ## List of things to do this week
 
 Below is a list of things you need to do this week, links to where you can do them, as well as roughly the order you should do it.
-Note that these are just SUGGESTIONS and you are by no means required to them this way. 
+Note that these are just SUGGESTIONS and you are by no means required to them this way.
 I have put the labs at the end, but if your lab section is earlier in the week, you may want to shift things around.
 
 <label><input type="checkbox" id="week02_task1" class="box"> [**Read/skim the assigned textbook chapter**](./readings.md)</input></label>
