@@ -24,7 +24,6 @@ parts:
     sections:
       - file: class/mod00-overview/python_jupyter_overview
 
-
 - caption: To fix
     title: Week 2 - Verbal & mathematical models 1
     sections:
